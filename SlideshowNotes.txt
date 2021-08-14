@@ -1,0 +1,19 @@
+CityPresenation Notes
+- Only talk about Final Model
+- Use Objectives to talk about business model
+- Talk able changes to the data in a abstract way like a lump-some group of infomation for the final model
+- Look up Log transforming
+- Change the r2 screen shots to text box, use percents and $ values
+- Create legend for plots
+- Go deeper into what your recommendations, correlations
+
+
+New Slides:
+- Intro
+- Objectives
+- Data Overview
+- Final Models
+- Recommendations
+- Future Work
+	- Locaiton (neigborhoods and traits of) data, other info that could have been had (Age, climate, general safety, proximity to city, in urban setting, noise of local highways, school districs, avg. age of neighbors) 
+- Thank you
